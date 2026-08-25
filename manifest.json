@@ -1,0 +1,9 @@
+{
+"name":"Fuel Receipt Manager",
+"short_name":"Fuel Receipt",
+"display":"standalone",
+"start_url":"./",
+"background_color":"#ffffff",
+"theme_color":"#0b6b35",
+"icons":[]
+}
